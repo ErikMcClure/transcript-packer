@@ -1,5 +1,5 @@
 # transcript-packer
-Downloads, organizes, and packs transcripts from the MLP Wiki into a JSON file.
+Downloads, organizes, and packs transcripts from the MLP Wiki into a JSON file. Do not attempt to compile the source code, [download the precompiled executables for your operating system](https://github.com/blackhole12/transcript-packer/releases) before you attempt to run the example.
 
 ### Usage
 
